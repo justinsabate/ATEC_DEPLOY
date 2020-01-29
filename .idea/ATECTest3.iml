@@ -4,8 +4,10 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
       <excludeFolder url="file://$MODULE_DIR$/venv2" />
+      <excludeFolder url="file://$MODULE_DIR$/venv3" />
+      <excludeFolder url="file://$MODULE_DIR$/venv4" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.4 (ATECTest3)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (ATECTest3) (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="calendar_Test" />
   </component>
