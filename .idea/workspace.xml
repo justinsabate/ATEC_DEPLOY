@@ -2,35 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd37bdf9-1988-40df-abc3-80f07d647039" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mysite/app/migrations/0190_auto_20191203_1107.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/app/migrations/0191_auto_20191203_1420.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/app/migrations/0192_linereservation_date_end.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/app/static/css/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/app/static/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/app/static/css/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/app/static/css/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/app/static/css/owl.theme.green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/app/static/css/owl.theme.green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/app/static/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/app/static/js/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysite/app/static/js/owl.carousel.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/app/models/frontend_management.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/models/frontend_management.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/app/models/general.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/models/general.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/app/models/reservation_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/models/reservation_classes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/app/static/cssTESTCLP/ATEC.css" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/static/css/ATEC.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/app/static/cssTESTCLP/ATEC.js" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/static/js/ATEC.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/app/templates/app/home/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/templates/app/home/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/app/templates/app/home/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/templates/app/home/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/app/templates/app/home/product-example.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/templates/app/home/product-example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/app/templates/app/home/webpage_template.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/templates/app/home/webpage_template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/app/templates/app/home/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/templates/app/home/welcome.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/app/templates/app/myaccount/agencia.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/templates/app/myaccount/agencia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/app/templates/app/myaccount/cliente.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/templates/app/myaccount/cliente.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/app/templates/app/myaccount/guia.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/templates/app/myaccount/guia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/app/translation.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/translation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/token.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/token.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite" beforeDir="false" afterPath="$PROJECT_DIR$/mysite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/wsgi.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +18,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/app/views.py">
+        <entry file="file://$PROJECT_DIR$/mysite/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16020">
-              <caret line="1112" selection-start-line="1112" selection-end-line="1112" />
-              <folding>
-                <element signature="e#0#54#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysite/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysite/mysite/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1287">
+              <caret line="96" column="6" selection-start-line="96" selection-start-column="2" selection-end-line="96" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysite/mysite/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Procfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runtime.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -77,45 +96,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysite/app/templates/app/home/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
+            <state relative-caret-position="10">
               <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#li#7;n#ul#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#li#8;n#ul#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/app/templates/app/pdf/pdf_reservation.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/app/templates/app/pdf/pdf_client.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/app/models/general.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2955">
-              <caret line="226" selection-start-line="226" selection-end-line="226" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/app/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4440">
-              <caret line="348" column="32" selection-start-line="348" selection-start-column="32" selection-end-line="348" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,18 +121,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysite/app/translation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
-              <folding>
-                <element signature="e#0#70#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -156,7 +132,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>type</find>
       <find>payment_state</find>
       <find>webpage</find>
       <find>get_card_paypal</find>
@@ -186,19 +161,15 @@
       <find>content.logo.image.url</find>
       <find>content.logo</find>
       <find>logo</find>
+      <find>DATA</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/mysite" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mysite/accounts/urls.py" />
-        <option value="$PROJECT_DIR$/mysite/accounts/views.py" />
-        <option value="$PROJECT_DIR$/mysite/templates/registration/signup.html" />
-        <option value="$PROJECT_DIR$/mysite/templates/registration/password_resert_form.html" />
-        <option value="$PROJECT_DIR$/mysite/templates/registration/password_reset_form.html" />
         <option value="$PROJECT_DIR$/mysite/templates/registration/password_reset_done.html" />
         <option value="$PROJECT_DIR$/mysite/templates/registration/password_reset_confirm.html" />
         <option value="$PROJECT_DIR$/mysite/templates/registration/password_reset_complete.html" />
@@ -227,7 +198,6 @@
         <option value="$PROJECT_DIR$/mysite/app/templates/app/error_404.html" />
         <option value="$PROJECT_DIR$/mysite/app/templates/app/404.html" />
         <option value="$PROJECT_DIR$/mysite/app/urls.py" />
-        <option value="$PROJECT_DIR$/mysite/mysite/settings.py" />
         <option value="$PROJECT_DIR$/mysite/app/templates/app/home/reservation.html" />
         <option value="$PROJECT_DIR$/mysite/app/static/css/ATEC.css" />
         <option value="$PROJECT_DIR$/mysite/app/migrations/0191_auto_20191203_1420.py" />
@@ -245,11 +215,16 @@
         <option value="$PROJECT_DIR$/mysite/app/models/reservation_classes.py" />
         <option value="$PROJECT_DIR$/mysite/app/models/frontend_management.py" />
         <option value="$PROJECT_DIR$/mysite/app/templates/app/home/base.html" />
+        <option value="$PROJECT_DIR$/mysite/.gitignore" />
+        <option value="$PROJECT_DIR$/mysite/requirements.txt" />
+        <option value="$PROJECT_DIR$/mysite/Procfile" />
+        <option value="$PROJECT_DIR$/mysite/runtime.txt" />
+        <option value="$PROJECT_DIR$/mysite/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/mysite/mysite/wsgi.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="720" />
     <option name="height" value="877" />
@@ -276,47 +251,12 @@
               <item name="ATECTest3" type="b2602c69:ProjectViewProjectNode" />
               <item name="ATECTest3" type="462c0819:PsiDirectoryNode" />
               <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ATECTest3" type="b2602c69:ProjectViewProjectNode" />
               <item name="ATECTest3" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ATECTest3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ATECTest3" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ATECTest3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ATECTest3" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ATECTest3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ATECTest3" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ATECTest3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ATECTest3" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="pdf" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -330,17 +270,17 @@
     <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/mysite/app/static/js" />
-      <recent name="$PROJECT_DIR$/mysite/app/static/css" />
-      <recent name="$PROJECT_DIR$/mysite/app/templates/app" />
-      <recent name="$PROJECT_DIR$/mysite/app/templates" />
-      <recent name="$PROJECT_DIR$/mysite" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/venv2/lib/python3.8" />
       <recent name="$PROJECT_DIR$/mysite/app" />
       <recent name="$PROJECT_DIR$/mysite/app/templates/app/accounts" />
+      <recent name="$PROJECT_DIR$/mysite/app/templates/app" />
+      <recent name="$PROJECT_DIR$/mysite/app/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/mysite/app/static/js" />
+      <recent name="$PROJECT_DIR$/mysite/app/static/css" />
       <recent name="$PROJECT_DIR$/mysite/app/templates/app" />
       <recent name="$PROJECT_DIR$/mysite/app/templates" />
     </key>
@@ -396,13 +336,21 @@
       <option name="presentableId" value="Default" />
       <updated>1568142878279</updated>
     </task>
+    <task id="LOCAL-00001" summary="before deployment test">
+      <created>1575915972353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575915972353</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="23" width="720" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19943622" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4048641" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -413,7 +361,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3299363" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4985207" visible="true" weight="0.24458599" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.4985207" visible="true" weight="0.58343947" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50147927" side_tool="true" weight="0.3910828" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -421,12 +369,11 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="before deployment test" />
+    <option name="LAST_COMMIT_MESSAGE" value="before deployment test" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mysite/app/migrations/0145_auto_20191122_1718.py" />
-    <entry file="file://$PROJECT_DIR$/mysite/app/migrations/0146_auto_20191122_1721.py" />
-    <entry file="file://$PROJECT_DIR$/mysite/app/migrations/0140_auto_20191122_1745.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/mysite/app/models/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -577,20 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/mysite/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mysite/app/migrations/0185_auto_20191128_1347.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -721,13 +654,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mysite/app/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16020">
@@ -804,12 +730,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mysite/app/templates/app/home/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="10">
           <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#li#7;n#ul#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#8;n#ul#0;n#div#1;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtime.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/mysite/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1287">
+          <caret line="96" column="6" selection-start-line="96" selection-start-column="2" selection-end-line="96" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
