@@ -2,69 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd37bdf9-1988-40df-abc3-80f07d647039" name="Default Changelist" comment="before deployment test">
-      <change beforePath="$PROJECT_DIR$/.idea/ATECTest3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ATECTest3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite" beforeDir="false" afterPath="$PROJECT_DIR$/mysite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/app/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/app/models/general.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/models/general.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/app/models/reservation_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/models/reservation_classes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/app/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/token.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/token.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pyrsa-decrypt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pyrsa-decrypt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pyrsa-encrypt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pyrsa-encrypt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pyrsa-keygen" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pyrsa-keygen" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pyrsa-priv2pub" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pyrsa-priv2pub" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pyrsa-sign" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pyrsa-sign" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/pyrsa-verify" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/pyrsa-verify" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/_common.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/_version.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/easter.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/easter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/parser/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/parser/_parser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/parser/isoparser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/relativedelta.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/relativedelta.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/rrule.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/rrule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/tz/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/tz/_common.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/tz/_factories.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/tz/tz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/tz/win.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/tzwin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/tzwin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/zoneinfo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/zoneinfo/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/zoneinfo/dateutil-zoneinfo.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/dateutil/zoneinfo/rebuild.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/python_dateutil-2.8.0.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/python_dateutil-2.8.0.dist-info/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/python_dateutil-2.8.0.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/python_dateutil-2.8.0.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/python_dateutil-2.8.0.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/python_dateutil-2.8.0.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/python_dateutil-2.8.0.dist-info/zip-safe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa-4.0.dist-info/DESCRIPTION.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa-4.0.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa-4.0.dist-info/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa-4.0.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa-4.0.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa-4.0.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa-4.0.dist-info/entry_points.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa-4.0.dist-info/metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa-4.0.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/_compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/_compat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/cli.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/cli.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/common.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/key.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/key.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/machine_size.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/parallel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/parallel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/pem.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/pem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/pkcs1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/pkcs1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/pkcs1_v2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/prime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/randnum.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/randnum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/transform.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.4/site-packages/rsa/transform.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mysite/app/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="584" column="327" selection-start-line="584" selection-start-column="327" selection-end-line="584" selection-end-column="327" />
+            <state relative-caret-position="70">
+              <caret line="582" column="51" selection-start-line="582" selection-start-column="51" selection-end-line="582" selection-end-column="51" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -86,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysite/app/models/reservation_classes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="588" column="46" selection-start-line="588" selection-start-column="46" selection-end-line="588" selection-end-column="46" />
+            <state relative-caret-position="290">
+              <caret line="822" column="11" selection-start-line="822" selection-start-column="11" selection-end-line="822" selection-end-column="11" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -99,10 +43,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysite/app/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="77" column="21" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysite/app/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="680" column="71" selection-start-line="680" selection-start-column="33" selection-end-line="680" selection-end-column="71" />
+            <state relative-caret-position="-1380">
+              <caret line="1435" column="23" lean-forward="true" selection-start-line="1435" selection-start-column="23" selection-end-line="1435" selection-end-column="23" />
               <folding>
                 <element signature="e#0#54#0" expanded="true" />
               </folding>
@@ -127,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysite/app/models/general.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="202" column="38" selection-start-line="202" selection-start-column="38" selection-end-line="202" selection-end-column="38" />
+            <state relative-caret-position="241">
+              <caret line="295" column="29" lean-forward="true" selection-start-line="295" selection-start-column="29" selection-end-line="295" selection-end-column="29" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -147,36 +100,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>total</find>
-      <find>update</find>
+      <find>Min</find>
+      <find>reservationForm</find>
+      <find>MaxValueValidator</find>
+      <find>Tax</find>
+      <find>make</find>
+      <find>get_tax_year_object</find>
+      <find>form.cleaned_data.get('more_informations')</find>
+      <find>info</find>
+      <find>http</find>
+      <find>html</find>
+      <find>Payment_state</find>
+      <find>ReservationAdmin</find>
+      <find>DateField</find>
       <find>updt_payment_state</find>
-      <find>fct_sum_racks</find>
-      <find>update_line</find>
-      <find>LineReservationAdmin</find>
-      <find>CAN LET</find>
-      <find>price_pay</find>
-      <find>price_payment_guide</find>
-      <find>if</find>
-      <find>price_net_guide</find>
-      <find>total_sell_price</find>
-      <find>NoteIn</find>
-      <find>get_fie</find>
-      <find>Note(</find>
-      <find>get_rea</find>
-      <find>get_readonly_fields</find>
-      <find>ForeignKey(</find>
-      <find>User</find>
-      <find>settings.AUTH_USER_MODEL,</find>
-      <find>welcome(</find>
-      <find>update_line_prices</find>
-      <find>'user'</find>
-      <find>get_total_to_pay_RESERVATION_this_year</find>
-      <find>NoteInLine</find>
-      <find>fct_sum_back</find>
+      <find>timedel</find>
+      <find>dateto</find>
+      <find>import date</find>
+      <find>datetime</find>
+      <find>import datetime</find>
+      <find>LineReservationIn</find>
+      <find>classes ==</find>
+      <find>updt</find>
+      <find>format</find>
+      <find>format_html</find>
+      <find>pa</find>
       <find>payment_guide</find>
-      <find>get_total_netos_RESERVATION_this_year</find>
-      <find>line_reservation__user</find>
-      <find>line_state='Co'</find>
+      <find>LineReservationA</find>
+      <find>pdf</find>
+      <find>custom</find>
+      <find>PAYMENT_CHOICES</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -188,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mysite/requirements.txt" />
         <option value="$PROJECT_DIR$/mysite/Procfile" />
         <option value="$PROJECT_DIR$/mysite/static/ATEC.css" />
         <option value="$PROJECT_DIR$/mysite/app/templates/app/home/special_offer_content.html" />
@@ -235,10 +187,11 @@
         <option value="$PROJECT_DIR$/mysite/app/templates/app/pdf/report_COMISIONES_USUARIO_pdf.html" />
         <option value="$PROJECT_DIR$/mysite/app/templates/app/pdf/report_COMISIONES_AGENCIA_pdf.html" />
         <option value="$PROJECT_DIR$/mysite/app/templates/app/pdf/report_RESERVATIONS_GUIDE_pdf.html" />
-        <option value="$PROJECT_DIR$/mysite/app/models/general.py" />
-        <option value="$PROJECT_DIR$/mysite/app/admin.py" />
+        <option value="$PROJECT_DIR$/mysite/app/forms.py" />
         <option value="$PROJECT_DIR$/mysite/app/views.py" />
+        <option value="$PROJECT_DIR$/mysite/app/models/general.py" />
         <option value="$PROJECT_DIR$/mysite/app/models/reservation_classes.py" />
+        <option value="$PROJECT_DIR$/mysite/app/admin.py" />
       </list>
     </option>
   </component>
@@ -474,7 +427,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15574348" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15574348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -485,7 +438,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49753347" visible="true" weight="0.3698795" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49753347" visible="true" weight="0.3698795" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5024665" side_tool="true" weight="0.3698795" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -531,20 +484,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/mysite/app/views.py</url>
-          <line>1602</line>
+          <line>1597</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mysite/templates/admin/app_index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv4/lib/python3.7/site-packages/django/contrib/admin/templates/admin/filter.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -903,16 +849,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/app/models/general.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="202" column="38" selection-start-line="202" selection-start-column="38" selection-end-line="202" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mysite/app/templates/app/home/welcome.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -925,32 +861,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysite/app/admin.py">
+    <entry file="file://$PROJECT_DIR$/mysite/app/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="584" column="327" selection-start-line="584" selection-start-column="327" selection-end-line="584" selection-end-column="327" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="387">
+          <caret line="77" column="21" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mysite/app/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="680" column="71" selection-start-line="680" selection-start-column="33" selection-end-line="680" selection-end-column="71" />
+        <state relative-caret-position="-1380">
+          <caret line="1435" column="23" lean-forward="true" selection-start-line="1435" selection-start-column="23" selection-end-line="1435" selection-end-column="23" />
           <folding>
             <element signature="e#0#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/app/models/general.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="295" column="29" lean-forward="true" selection-start-line="295" selection-start-column="29" selection-end-line="295" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mysite/app/models/reservation_classes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="588" column="46" selection-start-line="588" selection-start-column="46" selection-end-line="588" selection-end-column="46" />
+        <state relative-caret-position="290">
+          <caret line="822" column="11" selection-start-line="822" selection-start-column="11" selection-end-line="822" selection-end-column="11" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/app/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="582" column="51" selection-start-line="582" selection-start-column="51" selection-end-line="582" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
